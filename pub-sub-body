@@ -1,0 +1,5 @@
+{
+"project": "project-id",
+"database": "instance-name",
+"bucket": "gs://bucket"
+}
